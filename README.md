@@ -11,7 +11,7 @@ There are four files:
 - NST-EST2021-POP.csv
 - Proj_Brambatti_Fracchia_Privitera.ipynb.
 
-We developed the project in 'Proj_Brambatti_Fracchia_Privitera.ipynb.' by answering twelves questions. Each question is a specific issue that we solved using Pyhton language and 'pandas' library.
+We developed the project in 'Proj_Brambatti_Fracchia_Privitera.ipynb.' by answering twelves questions. Each question is a specific issue that we solved using Python language and 'pandas' library.
 
 
 # Instructions:
